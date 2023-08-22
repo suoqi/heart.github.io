@@ -1,11 +1,7 @@
-# 李峋同款爱心代码
+# 公众号：即兴小索奇
+## 加技术群请联系微信：jixyxcsoqi
 
-#### 介绍
-演示站：`http://vr013.com/love/input.html`
 
-黑色背景： `http://vr013.com/love/bgblackinput.html`
-
-欢迎star
 
 
 
